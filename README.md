@@ -1,2 +1,25 @@
-# LeetCode
-Este repositório contém soluções para problemas do LeetCode, uma plataforma popular para treinar habilidades de programação e preparação para entrevistas de emprego. As soluções em sua maioria estão escritas em Java.
+
+![Logo](https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5)
+
+
+# LeetCode, Problem Solving with Java
+
+#### Cada solução inclui uma descrição clara do problema, o código da solução e uma explicação detalhada do pensamento por trás da solução. Este repositório é útil tanto para iniciantes como para programadores experientes procurando uma nova abordagem para resolver problemas do LeetCode.
+
+
+
+
+| # | Titulo | Solução | Dificuldade |
+|---| ----- | -------- | ---------- |
+
+## Feedback
+
+Se você tiver algum feedback, por favor encaminhe uma mensagem p.erickbatista@gmail.com
+
+
+## Redes Sociais
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-erick/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/312692327028359182)
+
+
