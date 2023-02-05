@@ -1,5 +1,5 @@
 
-![Logo](https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5)
+![Logo](https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png)
 
 
 # LeetCode, Problem Solving with Java
