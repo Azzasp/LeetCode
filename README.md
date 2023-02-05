@@ -2,7 +2,7 @@
 ![Logo](https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png)
 
 
-# LeetCode, Problem Solving with Java
+# LeetCode, Problem Solving.
 
 #### Cada solução inclui uma descrição clara do problema, o código da solução e uma explicação detalhada do pensamento por trás da solução. Este repositório é útil tanto para iniciantes como para programadores experientes procurando uma nova abordagem para resolver problemas do LeetCode.
 
